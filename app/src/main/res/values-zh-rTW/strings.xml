@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3_Alternative</string>
+    <string name="message">你好嗎, 周杰倫</string>
+    <string name="show_message">顯示信息</string>
+</resources>
